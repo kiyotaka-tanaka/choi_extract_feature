@@ -1,4 +1,11 @@
 # choi_extract_feature
+REQUIREMENTS:
+      
+      python2.7
+      torch7(image,loadcaffe,cutorch,cudnn,nn,loadcaffe,paths,image,hdf5,xlua)
+
+
+
 
 必要なファイル：
 
@@ -8,7 +15,7 @@
 
   
   
-  VGG_FACE.caffemodel　をこのページからダウンロードをできます。
+  VGG_FACE.caffemodel　を以下のページからダウンロードをできます。
   
   VGG_FACEについて草しくは　http://www.robots.ox.ac.uk/~vgg/software/vgg_face/　を参考にしてください。
  
