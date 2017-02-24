@@ -8,6 +8,8 @@
 
   
   
+  VGG_FACE.caffemodel　をこのページからダウンロードをできます。
+  
   VGG_FACEについて草しくは　http://www.robots.ox.ac.uk/~vgg/software/vgg_face/　を参考にしてください。
  
  
