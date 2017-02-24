@@ -35,3 +35,6 @@ extract.sh ２つのパラメータを受け取る。image_name と　output_fil
 
 
 使い方： bash extract.sh image_path output_file
+
+
+物体の特報量を抽出は、　VGG_ILSVRC_16_layers.caffemodel　と　VGG_ILSVRC_16_layers_deploy.prototxt　を使う。
